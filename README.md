@@ -1,4 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Madhan
+
+## 🚀 About Me
+- 🎓 BCA Student (Graduating 2026)
+- 💻 MERN Stack Developer
+- 🔥 Passionate about building scalable and user-friendly web applications
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+
+## 📂 Projects
+### 🔹 PC Builder Website
+- Built using MERN stack
+- Helps users find compatible PC components
+
+### 🔹 Antique E-commerce Website
+- Full-stack web application
+- Features product listing, cart, and responsive UI
+
+## 💼 Experience
+- **Java Intern – Pumo Technovation**
+- Worked on dynamic web applications and UI
+
+## 📫 Connect with Me
+- 📧 gmadham516@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/madhan-m-031047402/
+
 
 <!--
 **gmadhan516-creator/gmadhan516-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
