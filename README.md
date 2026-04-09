@@ -66,7 +66,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:gmadhan516@gmail.com">
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=new">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/madhan-m-031047402/">
