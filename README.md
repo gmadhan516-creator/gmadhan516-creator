@@ -12,7 +12,7 @@
 
 ## 📂 Projects
 ### 🔹 PC Builder Website
-- Built using MERN stack
+- Built using React
 - Helps users find compatible PC components
 
 ### 🔹 Antique E-commerce Website
