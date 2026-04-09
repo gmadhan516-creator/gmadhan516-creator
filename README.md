@@ -24,7 +24,7 @@
 - Worked on dynamic web applications and UI
 
 ## 📫 Connect with Me
-- 📧 gmadham516@gmail.com
+- 📧 gmadhan516@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/madhan-m-031047402/
 
 
