@@ -1,46 +1,83 @@
+<!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=1000&color=red&center=true&vCenter=true&width=700&lines=Hii+I'm+Madhan;MERN+Stack+Developer;Building+Cool+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Madhan;MERN+Stack+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
 </p>
+
+
+
+---
 
 ## 🚀 About Me
 - 🎓 BCA Student (Graduating 2026)
 - 💻 MERN Stack Developer
-- 🔥 Passionate about building scalable and user-friendly web applications
+- 🔥 Passionate about building scalable & user-friendly web applications
+- 🌱 Currently learning advanced backend & system design
+
+---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+---
 
 ## 📂 Projects
+
 ### 🔹 PC Builder Website
-- Built using React
-- Helps users find compatible PC components
+- ⚛️ Built using React  
+- 🔍 Helps users find compatible PC components  
+- 💡 Focused on UI/UX and performance  
 
 ### 🔹 Antique E-commerce Website
-- Full-stack web application
-- Features product listing, cart, and responsive UI
+- 🌐 Full-stack MERN application  
+- 🛒 Features product listing, cart & responsive UI  
+- 🔐 Includes basic authentication  
+
+---
 
 ## 💼 Experience
-- **Java Intern – Pumo Technovation**
-- Worked on dynamic web applications and UI
+**💻 Java Intern – Pumo Technovation**
+- Worked on dynamic web applications  
+- Improved UI and user experience  
+- Gained real-world development exposure  
 
-## 📫 Connect with Me
-- 📧 gmadhan516@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/madhan-m-031047402/
+---
 
+## 📊 GitHub Stats
 
-<!--
-**gmadhan516-creator/gmadhan516-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gmadhan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmadhan&theme=tokyonight&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:gmadhan516@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/madhan-m-031047402/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔥 Quote
+> “Code. Learn. Build. Repeat.”
+
