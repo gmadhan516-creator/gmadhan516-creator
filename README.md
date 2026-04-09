@@ -1,5 +1,7 @@
+<h1 align="center">I'm Madhan 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hii+I'm+Madhan;I'm+a+MERN+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=100000&color=00FFAB&center=true&vCenter=true&width=600&lines=I'm+a+MERN+Stack+Developer" />
 </p>
 
 ## 🚀 About Me
