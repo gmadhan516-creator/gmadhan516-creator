@@ -39,12 +39,10 @@
 ### 🔹 PC Builder Website
 - ⚛️ Built using React  
 - 🔍 Helps users find compatible PC components  
-- 💡 Focused on UI/UX and performance  
 
 ### 🔹 Antique E-commerce Website
 - 🌐 Full-stack MERN application  
 - 🛒 Features product listing, cart & responsive UI  
-- 🔐 Includes basic authentication  
 
 ---
 
