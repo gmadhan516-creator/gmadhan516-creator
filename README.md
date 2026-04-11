@@ -1,81 +1,78 @@
-<!-- Typing Animation Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2000&pause=1000&color=FFFFF2&center=true&vCenter=true&width=800&lines=Hi+I'm+Madhan;MERN+Stack+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
-</p>
-
-
-
----
-
-## 🚀 About Me
-- 🎓 BCA Student (Graduating 2026)
-- 💻 MERN Stack Developer
-- 🔥 Passionate about building scalable & user-friendly web applications
-- 🌱 Currently learning advanced backend & system design
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Madhan</strong>
+</h1>
+<h3>Full Stack Developer | MERN Stack</h3>
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚙️ Backend
+    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+  </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
----
-
-## 📂 Projects
-
-### 🔹 PC Builder Website
-- ⚛️ Built using React  
-- 🔍 Helps users find compatible PC components  
-
-### 🔹 Antique E-commerce Website
-- 🌐 Full-stack MERN application  
-- 🛒 Features product listing, cart & responsive UI  
-
----
-
-## 💼 Experience
-**💻 Java Intern – Pumo Technovation**
-- Worked on dynamic web applications  
-- Improved UI and user experience  
-- Gained real-world development exposure  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmadhan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmadhan&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=new">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:gmadhan516@gmail.com"><img src="https://img.shields.io/badge/📧_gmadhan5162gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
+<h3>🌐 Socials</h3>
+<p align="left">
+  
+<a href="https://discord.com/ambuli/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/madhan-m-031047402/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=Madhan&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
+<br clear="all" />
 
-## 🔥 Quote
-> “Code. Learn. Build. Repeat.”
+🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+<br/><br/>
+</td>
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,nextjs,bootstrap" />
+</td>
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+<br/><br/>
+</td>
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=figma,vscode" />
+</td>
+</tr>
+</table>
+</p>
+
+
+
+📊 GitHub Stats
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Madhan&theme=dark&hide_border=true" alt="Streak" />
+</div>
+---
+❤️ Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/midhun_mike">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
 
