@@ -12,7 +12,7 @@
   </p>
 <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:gmadhan516@gmail.com"><img src="https://img.shields.io/badge/📧_gmadhan5162gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:gmadhan516@gmail.com"><img src="https://img.shields.io/badge/📧_Madhann4205@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
