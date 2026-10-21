@@ -43,7 +43,7 @@
 </td>
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,nextjs,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,bootstrap" />
 </td>
 
 </tr>
@@ -55,7 +55,7 @@
 </td>
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
 </td>
 </tr>
 </table>
